@@ -1,0 +1,73 @@
+<html>
+<title>Agentie turism </title>
+<body style="background-color:pink;">
+<h1 style="background-color:green; text-align: center;">Agentie de turism</h1>
+<h2 style="background-color:violet;"><a href="http://liceulhyperion.ro/">Aceasta este scoala mea</a></h2>
+<table border="2">
+ <tr>
+  <th>Excursie</th>
+  <th>Hotel</th>
+  <th>Perioada</th>
+  <th>Durata</th>
+  <th>Tip transport</th>
+  <th>Servicii incluse</th>
+  <th>Preț</th>
+ </tr>
+<tr>
+   <td>Mare</td>
+   <td>Hotel Comandor</td>
+   <td>15-20 Iulie</td>
+   <td>6 zile / 5 nopți</td>
+   <td>Autocar</td>
+   <td>Mic dejun inclus</td>
+   <td>3400 RON</td>
+ </tr>
+<tr>
+   <td>Munte</td>
+   <td>Hotel Caraiman</td>
+   <td>13-15 August</td>
+   <td>3 zile / 2 nopți</td>
+   <td>Autocar</td>
+   <td>Mic dejun si cina incluse</td>
+   <td>1600 RON</td>
+ </tr>
+<tr>
+   <td>Delta Dunării</td>
+   <td>Hotel Delta</td>
+   <td>5-7 August</td>
+   <td>3 zile / 2 nopți</td>
+   <td>Autocar</td>
+   <td>Mic dejun si pranz incluse</td>
+   <td>1100 RON</td>
+ </tr>
+<tr>
+   <td>Maramureș</td>
+   <td>Hotel Marmatia</td>
+   <td>21-25 August</td>
+   <td>5 zile / 4 nopți</td>
+   <td>Autocar</td>
+   <td>Mic dejun si cina incluse</td>
+   <td>1300 RON</td>
+  </tr>
+ <tr>
+   <td>Sibiu</td>
+   <td>Hotel Continental Forum</td>
+   <td>14-16 Spetembrie</td>
+   <td>4 zile / 3 nopți</td>
+   <td>Autocar</td>
+   <td>Cina inclusa</td>
+   <td>900 RON</td>
+ </tr>
+<tr>
+   <td>Clisura Dunării</td>
+   <td>Pensiune Tarabostes Ranch</td>
+   <td>10-12 August</td>
+   <td>3 zile / 2 nopți</td>
+   <td>Autocar</td>
+   <td>Mic dejun , pranz si cina incluse</td>
+   <td>1200 RON</td>
+</tr>
+</table>
+<h2>&#128515;</h2>
+</body>
+</html>
